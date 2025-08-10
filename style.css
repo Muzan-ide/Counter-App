@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+}
+.container{
+    border: 2px solid red;
+    height: 20%;
+    width: 50%;
+}
+.header{
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.count{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.btn-set{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+}
+footer{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
